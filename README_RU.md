@@ -1,7 +1,7 @@
 # ip2country
 
 [Go Reference](https://pkg.go.dev/github.com/byteonabeach/ip2country)
-[Go Report Card](https://goreportcard.com/report/github.com/byteonabeach/ip2country)
+[![Go Report Card](https://goreportcard.com/badge/github.com/byteonabeach/ip2country)](https://goreportcard.com/report/github.com/byteonabeach/ip2country)
 
 Быстрая и эффективная Go-библиотека для определения страны по IP-адресу.
 Эта либа предназначена для работы с базой данных IP-адресов **[DB-IP](https://db-ip.com/db/format/ip-to-country/csv.html)**. 

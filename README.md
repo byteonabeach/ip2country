@@ -1,7 +1,7 @@
 # ip2country
 
 [Go Reference](https://pkg.go.dev/github.com/byteonabeach/ip2country)
-[Go Report Card](https://goreportcard.com/report/github.com/byteonabeach/ip2country)
+[![Go Report Card](https://goreportcard.com/badge/github.com/byteonabeach/ip2country)](https://goreportcard.com/report/github.com/byteonabeach/ip2country)
 
 [🇷🇺 Read in Russian](./README_RU.md)
 
